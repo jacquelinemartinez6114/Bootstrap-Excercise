@@ -1,0 +1,33 @@
+body{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top:20px;
+}
+
+
+
+.container {
+    
+    padding: 10px;
+    max-width: 2600px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .button {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-block: 10px;
+  }
+
+  .btn-success{
+    background-color: rgb(212, 237, 218, 1) ;
+    color: rgb(14, 117, 14);
+    border: none;
+  }
+
+  .img{
+    max-width: 100%;
+    min-height: auto;
+  }
+
